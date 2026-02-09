@@ -1,0 +1,1264 @@
+{
+    "cities": [
+        {
+            "city": "New York",
+            "hotels": [
+                {
+                    "name": "The Plaza Hotel",
+                    "type": "Luxury",
+                    "price_per_night": 520,
+                    "location": "Manhattan",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Hampton Inn Times Square",
+                    "type": "Mid-range",
+                    "price_per_night": 270,
+                    "location": "Times Square",
+                    "rating": 4.2
+                },
+                {
+                    "name": "Pod 51 Hotel",
+                    "type": "Budget",
+                    "price_per_night": 130,
+                    "location": "Midtown East",
+                    "rating": 3.8
+                },
+                {
+                    "name": "Grand Palace Hotel",
+                    "price_per_night": 400,
+                    "rating": 4.7,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "Royal Elite Suites",
+                    "price_per_night": 400,
+                    "rating": 4.8,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "City Comfort Inn",
+                    "price_per_night": 200,
+                    "rating": 4.1,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Urban Stay",
+                    "price_per_night": 200,
+                    "rating": 4.4,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Backpacker Lodge",
+                    "price_per_night": 80,
+                    "rating": 3.6,
+                    "location": "City Center",
+                    "type": "Budget"
+                },
+                {
+                    "name": "Simple Stay Hostel",
+                    "price_per_night": 80,
+                    "rating": 4.0,
+                    "location": "City Center",
+                    "type": "Budget"
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Statue of Liberty",
+                    "category": "Sightseeing",
+                    "entry_fee": 35,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Empire State Building Observatory",
+                    "category": "Viewpoint",
+                    "entry_fee": 45,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Central Park",
+                    "category": "Nature",
+                    "entry_fee": 0,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Times Square",
+                    "category": "Shopping",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "The Metropolitan Museum of Art",
+                    "category": "Museum",
+                    "entry_fee": 30,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Afternoon"
+                },
+                {
+                    "name": "Local Food Market",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "category": "Food & Culture",
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "City River Cruise",
+                    "entry_fee": 30,
+                    "duration_hours": 2,
+                    "category": "Tour",
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Historical Walking Tour",
+                    "entry_fee": 20,
+                    "duration_hours": 3,
+                    "category": "History",
+                    "best_time_to_visit": "Morning"
+                }
+            ]
+        },
+        {
+            "city": "London",
+            "hotels": [
+                {
+                    "name": "The Ritz London",
+                    "type": "Luxury",
+                    "price_per_night": 600,
+                    "location": "Piccadilly",
+                    "rating": 4.6
+                },
+                {
+                    "name": "Holiday Inn Kensington",
+                    "type": "Mid-range",
+                    "price_per_night": 210,
+                    "location": "Kensington",
+                    "rating": 4.1
+                },
+                {
+                    "name": "Travelodge London Central",
+                    "type": "Budget",
+                    "price_per_night": 100,
+                    "location": "Central London",
+                    "rating": 4.0
+                },
+                {
+                    "name": "Grand Palace Hotel",
+                    "price_per_night": 400,
+                    "rating": 4.6,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "Royal Elite Suites",
+                    "price_per_night": 400,
+                    "rating": 4.5,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "City Comfort Inn",
+                    "price_per_night": 200,
+                    "rating": 4.1,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Urban Stay",
+                    "price_per_night": 200,
+                    "rating": 4.2,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Backpacker Lodge",
+                    "price_per_night": 80,
+                    "rating": 3.6,
+                    "location": "City Center",
+                    "type": "Budget"
+                },
+                {
+                    "name": "Simple Stay Hostel",
+                    "price_per_night": 80,
+                    "rating": 3.6,
+                    "location": "City Center",
+                    "type": "Budget"
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "London Eye",
+                    "category": "Viewpoint",
+                    "entry_fee": 42,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Tower of London",
+                    "category": "History",
+                    "entry_fee": 40,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "British Museum",
+                    "category": "Museum",
+                    "entry_fee": 0,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Anytime"
+                },
+                {
+                    "name": "Buckingham Palace (Outside)",
+                    "category": "Sightseeing",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Hyde Park",
+                    "category": "Nature",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Afternoon"
+                },
+                {
+                    "name": "Local Food Market",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "category": "Food & Culture",
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "City River Cruise",
+                    "entry_fee": 30,
+                    "duration_hours": 2,
+                    "category": "Tour",
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Historical Walking Tour",
+                    "entry_fee": 20,
+                    "duration_hours": 3,
+                    "category": "History",
+                    "best_time_to_visit": "Morning"
+                }
+            ]
+        },
+        {
+            "city": "Paris",
+            "hotels": [
+                {
+                    "name": "Shangri-La Paris",
+                    "type": "Luxury",
+                    "price_per_night": 850,
+                    "location": "16th arrondissement",
+                    "rating": 4.9
+                },
+                {
+                    "name": "Novotel Paris Centre Tour Eiffel",
+                    "type": "Mid-range",
+                    "price_per_night": 250,
+                    "location": "Near Eiffel Tower",
+                    "rating": 4.0
+                },
+                {
+                    "name": "Ibis Budget Paris",
+                    "type": "Budget",
+                    "price_per_night": 120,
+                    "location": "La Villette",
+                    "rating": 3.7
+                },
+                {
+                    "name": "Grand Palace Hotel",
+                    "price_per_night": 400,
+                    "rating": 4.7,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "Royal Elite Suites",
+                    "price_per_night": 400,
+                    "rating": 4.9,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "City Comfort Inn",
+                    "price_per_night": 200,
+                    "rating": 4.3,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Urban Stay",
+                    "price_per_night": 200,
+                    "rating": 4.1,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Backpacker Lodge",
+                    "price_per_night": 80,
+                    "rating": 3.8,
+                    "location": "City Center",
+                    "type": "Budget"
+                },
+                {
+                    "name": "Simple Stay Hostel",
+                    "price_per_night": 80,
+                    "rating": 3.6,
+                    "location": "City Center",
+                    "type": "Budget"
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Eiffel Tower",
+                    "category": "Landmark",
+                    "entry_fee": 32,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Louvre Museum",
+                    "category": "Museum",
+                    "entry_fee": 21,
+                    "duration_hours": 4,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Seine River Cruise",
+                    "category": "Cruise",
+                    "entry_fee": 18,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Notre-Dame Cathedral (Exterior)",
+                    "category": "Sightseeing",
+                    "entry_fee": 0,
+                    "duration_hours": 1,
+                    "best_time_to_visit": "Afternoon"
+                },
+                {
+                    "name": "Arc de Triomphe",
+                    "category": "Landmark",
+                    "entry_fee": 14,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Local Food Market",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "category": "Food & Culture",
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "City River Cruise",
+                    "entry_fee": 30,
+                    "duration_hours": 2,
+                    "category": "Tour",
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Historical Walking Tour",
+                    "entry_fee": 20,
+                    "duration_hours": 3,
+                    "category": "History",
+                    "best_time_to_visit": "Morning"
+                }
+            ]
+        },
+        {
+            "city": "Rome",
+            "hotels": [
+                {
+                    "name": "Hotel Eden Rome",
+                    "type": "Luxury",
+                    "price_per_night": 700,
+                    "location": "Via Veneto",
+                    "rating": 4.9
+                },
+                {
+                    "name": "Best Western Premier Rome",
+                    "type": "Mid-range",
+                    "price_per_night": 220,
+                    "location": "Termini",
+                    "rating": 4.1
+                },
+                {
+                    "name": "Hotel Mosaic Rome",
+                    "type": "Budget",
+                    "price_per_night": 110,
+                    "location": "Central Rome",
+                    "rating": 3.7
+                },
+                {
+                    "name": "Grand Palace Hotel",
+                    "price_per_night": 400,
+                    "rating": 4.7,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "Royal Elite Suites",
+                    "price_per_night": 400,
+                    "rating": 4.8,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "City Comfort Inn",
+                    "price_per_night": 200,
+                    "rating": 4.3,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Urban Stay",
+                    "price_per_night": 200,
+                    "rating": 4.1,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Backpacker Lodge",
+                    "price_per_night": 80,
+                    "rating": 4.0,
+                    "location": "City Center",
+                    "type": "Budget"
+                },
+                {
+                    "name": "Simple Stay Hostel",
+                    "price_per_night": 80,
+                    "rating": 3.9,
+                    "location": "City Center",
+                    "type": "Budget"
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Colosseum",
+                    "category": "Historic",
+                    "entry_fee": 20,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Vatican Museums",
+                    "category": "Museum",
+                    "entry_fee": 25,
+                    "duration_hours": 4,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Trevi Fountain",
+                    "category": "Sightseeing",
+                    "entry_fee": 0,
+                    "duration_hours": 1,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Pantheon",
+                    "category": "Historic",
+                    "entry_fee": 10,
+                    "duration_hours": 1,
+                    "best_time_to_visit": "Afternoon"
+                },
+                {
+                    "name": "Roman Forum",
+                    "category": "Heritage",
+                    "entry_fee": 16,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Afternoon"
+                },
+                {
+                    "name": "Local Food Market",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "category": "Food & Culture",
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "City River Cruise",
+                    "entry_fee": 30,
+                    "duration_hours": 2,
+                    "category": "Tour",
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Historical Walking Tour",
+                    "entry_fee": 20,
+                    "duration_hours": 3,
+                    "category": "History",
+                    "best_time_to_visit": "Morning"
+                }
+            ]
+        },
+        {
+            "city": "Dubai",
+            "hotels": [
+                {
+                    "name": "Burj Al Arab Jumeirah",
+                    "type": "Luxury",
+                    "price_per_night": 1200,
+                    "location": "Jumeirah Beach",
+                    "rating": 4.9
+                },
+                {
+                    "name": "Rove Downtown Dubai",
+                    "type": "Mid-range",
+                    "price_per_night": 200,
+                    "location": "Downtown Dubai",
+                    "rating": 4.0
+                },
+                {
+                    "name": "Holiday Inn Express",
+                    "type": "Budget",
+                    "price_per_night": 120,
+                    "location": "Dubai Airport Area",
+                    "rating": 4.0
+                },
+                {
+                    "name": "Grand Palace Hotel",
+                    "price_per_night": 400,
+                    "rating": 4.6,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "Royal Elite Suites",
+                    "price_per_night": 400,
+                    "rating": 4.7,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "City Comfort Inn",
+                    "price_per_night": 200,
+                    "rating": 4.3,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Urban Stay",
+                    "price_per_night": 200,
+                    "rating": 4.3,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Backpacker Lodge",
+                    "price_per_night": 80,
+                    "rating": 4.0,
+                    "location": "City Center",
+                    "type": "Budget"
+                },
+                {
+                    "name": "Simple Stay Hostel",
+                    "price_per_night": 80,
+                    "rating": 3.7,
+                    "location": "City Center",
+                    "type": "Budget"
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Burj Khalifa Observation Deck",
+                    "category": "Viewpoint",
+                    "entry_fee": 50,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Desert Safari & BBQ Dinner",
+                    "category": "Adventure",
+                    "entry_fee": 60,
+                    "duration_hours": 6,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Dubai Mall & Fountain Show",
+                    "category": "Shopping",
+                    "entry_fee": 0,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Museum of the Future",
+                    "category": "Museum",
+                    "entry_fee": 40,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Palm Jumeirah Boardwalk",
+                    "category": "Sightseeing",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Local Food Market",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "category": "Food & Culture",
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "City River Cruise",
+                    "entry_fee": 30,
+                    "duration_hours": 2,
+                    "category": "Tour",
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Historical Walking Tour",
+                    "entry_fee": 20,
+                    "duration_hours": 3,
+                    "category": "History",
+                    "best_time_to_visit": "Morning"
+                }
+            ]
+        },
+        {
+            "city": "Tokyo",
+            "hotels": [
+                {
+                    "name": "Park Hyatt Tokyo",
+                    "type": "Luxury",
+                    "price_per_night": 750,
+                    "location": "Shinjuku",
+                    "rating": 4.7
+                },
+                {
+                    "name": "Shibuya Excel Hotel Tokyu",
+                    "type": "Mid-range",
+                    "price_per_night": 250,
+                    "location": "Shibuya",
+                    "rating": 4.1
+                },
+                {
+                    "name": "Hotel Mystays Asakusa",
+                    "type": "Budget",
+                    "price_per_night": 110,
+                    "location": "Asakusa",
+                    "rating": 3.5
+                },
+                {
+                    "name": "Grand Palace Hotel",
+                    "price_per_night": 400,
+                    "rating": 4.6,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "Royal Elite Suites",
+                    "price_per_night": 400,
+                    "rating": 4.8,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "City Comfort Inn",
+                    "price_per_night": 200,
+                    "rating": 4.1,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Urban Stay",
+                    "price_per_night": 200,
+                    "rating": 4.2,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Backpacker Lodge",
+                    "price_per_night": 80,
+                    "rating": 3.6,
+                    "location": "City Center",
+                    "type": "Budget"
+                },
+                {
+                    "name": "Simple Stay Hostel",
+                    "price_per_night": 80,
+                    "rating": 3.6,
+                    "location": "City Center",
+                    "type": "Budget"
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Tokyo Skytree",
+                    "category": "Viewpoint",
+                    "entry_fee": 30,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Senso-ji Temple",
+                    "category": "Culture",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Shibuya Crossing",
+                    "category": "Sightseeing",
+                    "entry_fee": 0,
+                    "duration_hours": 1,
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "TeamLab Planets",
+                    "category": "Experience",
+                    "entry_fee": 28,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Afternoon"
+                },
+                {
+                    "name": "Ueno Park & Zoo",
+                    "category": "Nature",
+                    "entry_fee": 7,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Local Food Market",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "category": "Food & Culture",
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "City River Cruise",
+                    "entry_fee": 30,
+                    "duration_hours": 2,
+                    "category": "Tour",
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Historical Walking Tour",
+                    "entry_fee": 20,
+                    "duration_hours": 3,
+                    "category": "History",
+                    "best_time_to_visit": "Morning"
+                }
+            ]
+        },
+        {
+            "city": "Singapore",
+            "hotels": [
+                {
+                    "name": "Marina Bay Sands",
+                    "type": "Luxury",
+                    "price_per_night": 550,
+                    "location": "Marina Bay",
+                    "rating": 4.5
+                },
+                {
+                    "name": "Holiday Inn Express Clarke Quay",
+                    "type": "Mid-range",
+                    "price_per_night": 190,
+                    "location": "Clarke Quay",
+                    "rating": 4.3
+                },
+                {
+                    "name": "Capsule Pod Boutique Hostel",
+                    "type": "Budget",
+                    "price_per_night": 70,
+                    "location": "Chinatown",
+                    "rating": 3.7
+                },
+                {
+                    "name": "Grand Palace Hotel",
+                    "price_per_night": 400,
+                    "rating": 4.6,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "Royal Elite Suites",
+                    "price_per_night": 400,
+                    "rating": 4.5,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "City Comfort Inn",
+                    "price_per_night": 200,
+                    "rating": 4.2,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Urban Stay",
+                    "price_per_night": 200,
+                    "rating": 4.2,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Backpacker Lodge",
+                    "price_per_night": 80,
+                    "rating": 3.8,
+                    "location": "City Center",
+                    "type": "Budget"
+                },
+                {
+                    "name": "Simple Stay Hostel",
+                    "price_per_night": 80,
+                    "rating": 3.7,
+                    "location": "City Center",
+                    "type": "Budget"
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Gardens by the Bay",
+                    "category": "Nature",
+                    "entry_fee": 18,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Marina Bay Sands SkyPark",
+                    "category": "Viewpoint",
+                    "entry_fee": 25,
+                    "duration_hours": 1,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Sentosa Island",
+                    "category": "Beach",
+                    "entry_fee": 4,
+                    "duration_hours": 4,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Singapore Zoo",
+                    "category": "Zoo",
+                    "entry_fee": 35,
+                    "duration_hours": 4,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Merlion Park",
+                    "category": "Sightseeing",
+                    "entry_fee": 0,
+                    "duration_hours": 1,
+                    "best_time_to_visit": "Afternoon"
+                },
+                {
+                    "name": "Local Food Market",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "category": "Food & Culture",
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "City River Cruise",
+                    "entry_fee": 30,
+                    "duration_hours": 2,
+                    "category": "Tour",
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Historical Walking Tour",
+                    "entry_fee": 20,
+                    "duration_hours": 3,
+                    "category": "History",
+                    "best_time_to_visit": "Morning"
+                }
+            ]
+        },
+        {
+            "city": "Mumbai",
+            "hotels": [
+                {
+                    "name": "The Taj Mahal Palace",
+                    "type": "Luxury",
+                    "price_per_night": 380,
+                    "location": "Colaba",
+                    "rating": 4.9
+                },
+                {
+                    "name": "Trident Nariman Point",
+                    "type": "Mid-range",
+                    "price_per_night": 200,
+                    "location": "Nariman Point",
+                    "rating": 4.1
+                },
+                {
+                    "name": "FabHotel Embassy Park",
+                    "type": "Budget",
+                    "price_per_night": 70,
+                    "location": "Vile Parle",
+                    "rating": 3.8
+                },
+                {
+                    "name": "Grand Palace Hotel",
+                    "price_per_night": 400,
+                    "rating": 4.8,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "Royal Elite Suites",
+                    "price_per_night": 400,
+                    "rating": 4.9,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "City Comfort Inn",
+                    "price_per_night": 200,
+                    "rating": 4.2,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Urban Stay",
+                    "price_per_night": 200,
+                    "rating": 4.0,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Backpacker Lodge",
+                    "price_per_night": 80,
+                    "rating": 3.9,
+                    "location": "City Center",
+                    "type": "Budget"
+                },
+                {
+                    "name": "Simple Stay Hostel",
+                    "price_per_night": 80,
+                    "rating": 3.7,
+                    "location": "City Center",
+                    "type": "Budget"
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Gateway of India",
+                    "category": "Sightseeing",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Marine Drive",
+                    "category": "Nature",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Elephanta Caves",
+                    "category": "Historic",
+                    "entry_fee": 10,
+                    "duration_hours": 5,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Bandra-Worli Sea Link",
+                    "category": "Sightseeing",
+                    "entry_fee": 0,
+                    "duration_hours": 1,
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Colaba Causeway Market",
+                    "category": "Shopping",
+                    "entry_fee": 0,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Afternoon"
+                },
+                {
+                    "name": "Local Food Market",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "category": "Food & Culture",
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "City River Cruise",
+                    "entry_fee": 30,
+                    "duration_hours": 2,
+                    "category": "Tour",
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Historical Walking Tour",
+                    "entry_fee": 20,
+                    "duration_hours": 3,
+                    "category": "History",
+                    "best_time_to_visit": "Morning"
+                }
+            ]
+        },
+        {
+            "city": "Sydney",
+            "hotels": [
+                {
+                    "name": "Park Hyatt Sydney",
+                    "type": "Luxury",
+                    "price_per_night": 620,
+                    "location": "Sydney Harbour",
+                    "rating": 4.6
+                },
+                {
+                    "name": "Mercure Sydney",
+                    "type": "Mid-range",
+                    "price_per_night": 200,
+                    "location": "Sydney CBD",
+                    "rating": 4.2
+                },
+                {
+                    "name": "Ibis Budget Sydney",
+                    "type": "Budget",
+                    "price_per_night": 110,
+                    "location": "Airport",
+                    "rating": 3.9
+                },
+                {
+                    "name": "Grand Palace Hotel",
+                    "price_per_night": 400,
+                    "rating": 4.5,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "Royal Elite Suites",
+                    "price_per_night": 400,
+                    "rating": 4.7,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "City Comfort Inn",
+                    "price_per_night": 200,
+                    "rating": 4.3,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Urban Stay",
+                    "price_per_night": 200,
+                    "rating": 4.4,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Backpacker Lodge",
+                    "price_per_night": 80,
+                    "rating": 3.5,
+                    "location": "City Center",
+                    "type": "Budget"
+                },
+                {
+                    "name": "Simple Stay Hostel",
+                    "price_per_night": 80,
+                    "rating": 3.8,
+                    "location": "City Center",
+                    "type": "Budget"
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Sydney Opera House",
+                    "category": "Culture",
+                    "entry_fee": 28,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Sydney Harbour Bridge Climb",
+                    "category": "Adventure",
+                    "entry_fee": 180,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Bondi Beach",
+                    "category": "Beach",
+                    "entry_fee": 0,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Taronga Zoo",
+                    "category": "Zoo",
+                    "entry_fee": 49,
+                    "duration_hours": 4,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Darling Harbour",
+                    "category": "Sightseeing",
+                    "entry_fee": 0,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Local Food Market",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "category": "Food & Culture",
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "City River Cruise",
+                    "entry_fee": 30,
+                    "duration_hours": 2,
+                    "category": "Tour",
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Historical Walking Tour",
+                    "entry_fee": 20,
+                    "duration_hours": 3,
+                    "category": "History",
+                    "best_time_to_visit": "Morning"
+                }
+            ]
+        },
+        {
+            "city": "Bangkok",
+            "hotels": [
+                {
+                    "name": "Mandarin Oriental Bangkok",
+                    "type": "Luxury",
+                    "price_per_night": 420,
+                    "location": "Riverside",
+                    "rating": 4.7
+                },
+                {
+                    "name": "Amari Watergate Bangkok",
+                    "type": "Mid-range",
+                    "price_per_night": 150,
+                    "location": "Pratunam",
+                    "rating": 4.3
+                },
+                {
+                    "name": "Lub d Bangkok Siam Hostel",
+                    "type": "Budget",
+                    "price_per_night": 40,
+                    "location": "Siam Square",
+                    "rating": 3.7
+                },
+                {
+                    "name": "Grand Palace Hotel",
+                    "price_per_night": 400,
+                    "rating": 4.7,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "Royal Elite Suites",
+                    "price_per_night": 400,
+                    "rating": 4.9,
+                    "location": "City Center",
+                    "type": "Luxury"
+                },
+                {
+                    "name": "City Comfort Inn",
+                    "price_per_night": 200,
+                    "rating": 4.2,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Urban Stay",
+                    "price_per_night": 200,
+                    "rating": 4.1,
+                    "location": "City Center",
+                    "type": "Mid-range"
+                },
+                {
+                    "name": "Backpacker Lodge",
+                    "price_per_night": 80,
+                    "rating": 3.6,
+                    "location": "City Center",
+                    "type": "Budget"
+                },
+                {
+                    "name": "Simple Stay Hostel",
+                    "price_per_night": 80,
+                    "rating": 3.9,
+                    "location": "City Center",
+                    "type": "Budget"
+                }
+            ],
+            "attractions": [
+                {
+                    "name": "Grand Palace",
+                    "category": "Cultural",
+                    "entry_fee": 16,
+                    "duration_hours": 3,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Wat Arun",
+                    "category": "Temple",
+                    "entry_fee": 2,
+                    "duration_hours": 2,
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "Floating Market",
+                    "category": "Experience",
+                    "entry_fee": 5,
+                    "duration_hours": 4,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Chatuchak Market",
+                    "category": "Shopping",
+                    "entry_fee": 0,
+                    "duration_hours": 4,
+                    "best_time_to_visit": "Morning"
+                },
+                {
+                    "name": "Asiatique Riverfront",
+                    "category": "Night Market",
+                    "entry_fee": 0,
+                    "duration_hours": 4,
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Local Food Market",
+                    "entry_fee": 0,
+                    "duration_hours": 2,
+                    "category": "Food & Culture",
+                    "best_time_to_visit": "Evening"
+                },
+                {
+                    "name": "City River Cruise",
+                    "entry_fee": 30,
+                    "duration_hours": 2,
+                    "category": "Tour",
+                    "best_time_to_visit": "Night"
+                },
+                {
+                    "name": "Historical Walking Tour",
+                    "entry_fee": 20,
+                    "duration_hours": 3,
+                    "category": "History",
+                    "best_time_to_visit": "Morning"
+                }
+            ]
+        }
+    ]
+}
